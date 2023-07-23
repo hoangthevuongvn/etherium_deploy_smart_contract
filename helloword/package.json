@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vuonght1",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
